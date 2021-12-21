@@ -1,0 +1,14 @@
+com\rodrigopeleias\barbershop\utils\AvailabilityUtils.class
+com\rodrigopeleias\barbershop\domain\CustomerTest.class
+com\rodrigopeleias\barbershop\domain\ReservationTest.class
+com\rodrigopeleias\barbershop\ports\in\AvailabilityCommandTest.class
+com\rodrigopeleias\barbershop\ports\in\CustomerCommandTest.class
+com\rodrigopeleias\barbershop\builder\ReservationBuilder.class
+com\rodrigopeleias\barbershop\domain\AvailabilityTest.class
+com\rodrigopeleias\barbershop\ports\in\BookReservationCommandTest.class
+com\rodrigopeleias\barbershop\ports\in\CreateBarbershopCommandTest.class
+com\rodrigopeleias\barbershop\domain\BarbershopTest.class
+com\rodrigopeleias\barbershop\builder\ReservationBuilder$ReservationBuilderBuilder.class
+com\rodrigopeleias\barbershop\service\BookReservationServiceTest.class
+com\rodrigopeleias\barbershop\service\CreateBarbershopServiceTest.class
+com\rodrigopeleias\barbershop\utils\BarbershopUtils.class
